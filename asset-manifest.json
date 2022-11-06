@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Food-In-KGP/static/css/main.851a7810.css",
+    "main.js": "/Food-In-KGP/static/js/main.babfe7f9.js",
+    "static/js/787.7104dd50.chunk.js": "/Food-In-KGP/static/js/787.7104dd50.chunk.js",
+    "index.html": "/Food-In-KGP/index.html",
+    "main.851a7810.css.map": "/Food-In-KGP/static/css/main.851a7810.css.map",
+    "main.babfe7f9.js.map": "/Food-In-KGP/static/js/main.babfe7f9.js.map",
+    "787.7104dd50.chunk.js.map": "/Food-In-KGP/static/js/787.7104dd50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.851a7810.css",
+    "static/js/main.babfe7f9.js"
+  ]
+}
